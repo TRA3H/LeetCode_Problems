@@ -17,4 +17,7 @@ So far I have done Contains Duplicate, Valid Anagram, Two Sum, Group Anagrams an
 4. looped through that string and counted the frequency of the character that appeared and matched the strings using a tuplet and appened it to our result
 
 Still kind of fishy and learning how to use hash maps but so far this has been my progress
+
+Last min notes:
+I should really review maps, lists, hashmaps and tuples again in python gg
 <!-- End of Week 1 content -->
