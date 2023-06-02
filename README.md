@@ -3,6 +3,8 @@
 Thought of just putting my progression on Github with all my thoughts and notes as I am grinding out all the problems.
 Starting this grind I, feeling a bit motiviated to unmotivated I wanted to build a good coding habit so I started this journey just documenting problems as I go. Since I am break from school for the summer, I thought I take this opportunity to improve my self and boost my chances in getting my foot into my career lets get it. My goal has been to do at least 1 - 4 problems a day either in my bed or on my desktop whatever gets the problems done.
 
+Roadmap I am following : https://neetcode.io/roadmap
+
 ## Week 1
 
 ### The beginning
